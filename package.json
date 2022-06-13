@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "dependencies",
+  "main": "main_final.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dialogflow": "^1.2.0",
+    "express": "^4.18.1",
+    "lodash-contrib": "^4.1200.1",
+    "mysql": "^2.18.1",
+    "node-cron": "^3.0.0",
+    "request": "^2.81.0",
+    "shelljs": "^0.8.5",
+    "telegraf": "^3.39.0"
+  }
+}
